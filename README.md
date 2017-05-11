@@ -1,13 +1,13 @@
 # NOT [scamcoins](http://altcoins.com/scamcoins) list
 
-> This is an attempt to group all the [CryptoCurrencies](https://en.wikipedia.org/wiki/Cryptocurrency) that **are** or **are supposed to be** NOT scamcoins.  
+> This is an ambitious attempt to group all the [CryptoCurrencies](https://en.wikipedia.org/wiki/Cryptocurrency) that **are** or **are supposed to be** NOT scamcoins.  
 
 ## Criteria
 
 Every ***CryptoCurrency*** listed here must have a link to:
   - Official website
   - Official wallet
-  - Official mining software
+  - Official or community (recent) link to ***How to start mine*** 
   - Open source code (**under active development**)
   - Community links (forum, social media, Slack, Gitter etc.)
   - **Direct link to "What is [Cryptocurrency name]" or similar**
@@ -37,5 +37,21 @@ is moving up a large percent is when we start putting our bitcoin orders in so w
 up any lower bitcoin orders still on the books.   Congratulations, you have just become a bag holder of a worthless scamcoin that is back to its previous price of next to nothing, the devs have conned you out of your bitcoins and will let their scam coin die to start working on their next scam.
 
 > From [How scamcoin works (Bitcointalk)](https://bitcointalk.org/index.php?topic=1364919.0)
+  
+</p></details>    
+
+
+## List
+
+> **NOTE: the list will not contain Bitcoin since we are listing only [Altcoins](https://en.bitcoin.it/wiki/Altcoin)**
+
+
+<details><summary><b>1. Ethereum</b></summary><p>
+
+  - Official website: [www.ethereum.org](https://www.ethereum.org/)
+  - Official wallet: [mist](https://github.com/ethereum/mist/releases)
+  - Official or community (recent) link to ***How to start mine***: [Quick start guide to mine Ethereum](https://forum.ethereum.org/discussion/8886/quick-start-guide-to-mine-ethereum)
+  - Open source code (**under active development**): [github/ethereum](https://github.com/ethereum)
+  
   
 </p></details>    
