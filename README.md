@@ -17,9 +17,9 @@ Every ***CryptoCurrency*** listed here must have a link to:
 ### Related resources (and criteria) to scamcoins identification:
   - [Anatomy of a scamcoin](http://cryptolife.net/the-anatomy-of-a-scamcoin-7-things-to-know-before-investing-in-an-altcoin/)
   - [Scamcoins list and explanation](http://www.bitcoinallstars.com/scamcoins/)  
-  
-#### **How new Alts / Scamcoins steal your Bitcoins**    
-  
+
+<details><summary><b>How new Alts / Scamcoins steal your Bitcoins</b></summary><p>
+
 > It seems every day a new alt coin pops up. They are easy to make - most are just clones of coins
 that were programmed by someone else and just given a new name, a few graphic tweaks, etc. to make it look new.
 It doesn’t take much work - a new scam coin is born.   Most of the devs who create these coins have only one intention - to steal bitcoins from others.  This explains how they do it.    
@@ -37,3 +37,5 @@ is moving up a large percent is when we start putting our bitcoin orders in so w
 up any lower bitcoin orders still on the books.   Congratulations, you have just become a bag holder of a worthless scamcoin that is back to its previous price of next to nothing, the devs have conned you out of your bitcoins and will let their scam coin die to start working on their next scam.
 
 > From [How scamcoin works (Bitcointalk)](https://bitcointalk.org/index.php?topic=1364919.0)
+  
+</p></details>    
