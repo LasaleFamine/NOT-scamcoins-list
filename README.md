@@ -5,12 +5,12 @@
 ## Criteria
 
 Every ***CryptoCurrency*** listed here must have a link to:
+  - **Direct link to Whitepaper/"What is [Cryptocurrency name]" or similar**
   - Official website
   - Official wallet
-  - Official or community (recent) link to ***How to start mine*** 
+  - Official or community (recent) link to ***How to start mine***
   - Open source code (**under active development**)
   - Community links (forum, social media, Slack, Gitter etc.)
-  - **Direct link to Whitepaper/"What is [Cryptocurrency name]" or similar**
   - **Everything can prove IS NOT a scam :D**
   
 
@@ -48,10 +48,12 @@ up any lower bitcoin orders still on the books.   Congratulations, you have just
 
 <details><summary><b>1. Ethereum</b></summary><p>
 
+  - **Direct link to Whitepaper/"What is [Cryptocurrency name]" or similar**: [White Paper](https://github.com/ethereum/wiki/wiki/White-Paper)
   - Official website: [www.ethereum.org](https://www.ethereum.org/)
   - Official wallet: [mist](https://github.com/ethereum/mist/releases)
   - Official or community (recent) link to ***How to start mine***: [Quick start guide to mine Ethereum](https://forum.ethereum.org/discussion/8886/quick-start-guide-to-mine-ethereum)
   - Open source code (**under active development**): [github/ethereum](https://github.com/ethereum)
+  - Community links (forum, social media, Slack, Gitter etc.): [Community](https://www.ethereum.org/#community)
   
   
 </p></details>    
