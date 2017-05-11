@@ -10,7 +10,7 @@ Every ***CryptoCurrency*** listed here must have a link to:
   - Official or community (recent) link to ***How to start mine*** 
   - Open source code (**under active development**)
   - Community links (forum, social media, Slack, Gitter etc.)
-  - **Direct link to "What is [Cryptocurrency name]" or similar**
+  - **Direct link to Whitepaper/"What is [Cryptocurrency name]" or similar**
   - **Everything can prove IS NOT a scam :D**
   
 
