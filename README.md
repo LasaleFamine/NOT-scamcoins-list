@@ -61,4 +61,7 @@ up any lower bitcoin orders still on the books.   Congratulations, you have just
 
 ## Contribute
 
+1. Open an issue and fill the template
+2. Open a PR and add the filled template after the last one with the same collapse HTML body.
+
 **PR are really welcome.**
