@@ -43,8 +43,7 @@ up any lower bitcoin orders still on the books.   Congratulations, you have just
 
 ## List
 
-> **NOTE: the list will not contain Bitcoin since we are listing only [Altcoins](https://en.bitcoin.it/wiki/Altcoin)**
-
+> **NOTE: the list will not contain Bitcoin since we are listing only [Altcoins](https://en.bitcoin.it/wiki/Altcoin) ([What are Altcoins?](http://www.newsbtc.com/altcoins/)).**
 
 <details><summary><b>1. Ethereum</b></summary><p>
 
