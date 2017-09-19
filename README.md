@@ -57,6 +57,18 @@ up any lower bitcoin orders still on the books.   Congratulations, you have just
   
 </p></details>    
 
+<details><summary><b>2. Monero</b></summary><p>
+
+  - **Direct link to Whitepaper/"What is [Cryptocurrency name]" or similar**: [What is Monero](https://getmonero.org/get-started/what-is-monero/) - [About Monero](https://getmonero.org/resources/about/)
+  - Official website: [getmonero.org](https://getmonero.org)
+  - Official wallet: [Official wallets](https://getmonero.org/downloads/) - [MyMonero (Web based, most used)](https://mymonero.com/)
+  - Official or community (recent) link to ***How to start mine***: [getting-started/mining](https://getmonero.org/get-started/mining/)
+  - Open source code (**under active development**): [github/monero-project/monero](https://github.com/monero-project/monero)
+  - Community links (forum, social media, Slack, Gitter etc.): [/r/Monero](https://reddit.com/r/monero) - [Slack](https://monero.slack.com/) - [BitcoinTalk](https://bitcointalk.org/index.php?topic=583449.0) - [Stack Exchange](https://monero.stackexchange.com/) - [Telegram channel](https://telegram.me/bitmonero). More on website.
+  
+  
+</p></details>    
+
 
 ## Contribute
 
